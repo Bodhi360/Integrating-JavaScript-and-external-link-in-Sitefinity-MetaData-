@@ -4,7 +4,7 @@ Here we are using metadata.ascx file in sitefinity . It is using to connect the 
 Create metadata.ascx file in App_Master Folder.
 Use the Following Code in metadata file Heading:
 <%@ Control Language="C#" %>
-<img src="https://github.com/Bodhi360/Integrating-JavaScript-and-external-link-in-Sitefinity MetaData-/blob/master/Picture1.png">
+<img src="https://github.com/Bodhi360/Integrating-JavaScript-and-external-link-in-Sitefinity-MetaData-/blob/master/Picture1.png">
 After using the heading code we use the script and link in metadata.
 Next we also use following code in .master file to link metadata link
 Use it on the top
