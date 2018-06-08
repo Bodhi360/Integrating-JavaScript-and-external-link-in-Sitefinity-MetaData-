@@ -24,4 +24,4 @@ Use it in head tag
 
 <img src="https://github.com/Bodhi360/Integrating-JavaScript-and-external-link-in-Sitefinity-MetaData-/blob/master/Picture2.png">        
 
-<a href="http://www.bodhi360.cloud/">Bodhi360</a>               Atul kumar              
+<a href="http://www.bodhi360.cloud/">Bodhi360</a>                Atul kumar              
