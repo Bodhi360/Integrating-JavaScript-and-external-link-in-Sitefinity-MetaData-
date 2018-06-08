@@ -23,3 +23,5 @@ Use it in head tag
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'/>
 
 <img src="https://github.com/Bodhi360/Integrating-JavaScript-and-external-link-in-Sitefinity-MetaData-/blob/master/Picture2.png">        
+
+<a href="http://www.bodhi360.cloud/">Bodhi360</a>               Atul kumar              
